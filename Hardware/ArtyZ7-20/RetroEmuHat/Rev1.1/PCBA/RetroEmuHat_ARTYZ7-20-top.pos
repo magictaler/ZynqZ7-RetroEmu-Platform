@@ -1,0 +1,48 @@
+### Footprint positions - created on 2025-01-21T22:42:24+1100 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                             PosX       PosY       Rot  Side
+BT1       BU2032-1           BAT_BAT-HLD-014-THM                              25.1200     1.4900    0.0000  top
+C1        0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      20.5740   -61.3410  -90.0000  top
+C2        0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      10.1510   -52.1700  -90.0000  top
+C3        0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      39.6240   -61.4680  -90.0000  top
+C5        0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      15.4150   -16.6830   90.0000  top
+C6        0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      15.4150   -21.5090   90.0000  top
+C7        0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      15.4150   -25.4460   90.0000  top
+C8        0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      19.2250    -9.9520  -90.0000  top
+C9        0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      34.3380   -20.5470  -90.0000  top
+C10       0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      34.3380   -26.8970  -90.0000  top
+C11       0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      19.0980   -38.6325   90.0000  top
+C16       2200               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      -4.8350   -65.7590  180.0000  top
+C20       2200               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      -4.8350   -60.6790    0.0000  top
+C21       0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       7.1400     3.2300  180.0000  top
+C22       0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       1.1400    -6.7700  180.0000  top
+C23       0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      42.1550     3.5830  180.0000  top
+C24       10_uF_10V          CP_Elec_4x4.5                                    15.4940   -10.9220   90.0000  top
+D1        BAT54C             SOT-23                                           39.6150   -53.9480  -90.0000  top
+D2        BAT54C             SOT-23                                           43.9330   -53.9480  -90.0000  top
+FID1      Fiducial           Fiducial_0.5mm_Mask1.5mm                          0.0000     0.0000    0.0000  top
+FID2      Fiducial           Fiducial_0.5mm_Mask1.5mm                         54.9600   -61.0000    0.0000  top
+J3        Micro_SD_Card      microSD_HC_Hirose_DM3AT-SF-PEJM5                 10.6200   -63.1823    0.0000  top
+LD1       READY              LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder     6.7220    -8.7700  180.0000  top
+R1        2K                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      32.0040   -64.8970    0.0000  top
+R2        2K                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      23.3680   -61.3410  -90.0000  top
+R3        2K                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      50.8000   -64.8970    0.0000  top
+R4        2K                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      41.9100   -61.4680  -90.0000  top
+R6        10K                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       5.9600   -52.6780    0.0000  top
+R7        10K                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      25.2730   -56.3880    0.0000  top
+R8        10K                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       8.1190   -48.3600   90.0000  top
+R9        10K                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      11.6750   -47.7250  180.0000  top
+R10       10K                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      11.6590   -45.6930  180.0000  top
+R11       150                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      35.0520   -58.0120   90.0000  top
+R12       150                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      37.5920   -58.0120   90.0000  top
+R13       150                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      48.5140   -58.0390   90.0000  top
+R14       150                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      46.2280   -58.0390   90.0000  top
+R15       200                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       1.0070   -58.5200  -90.0000  top
+R22       5                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      12.1920    -4.6990  -90.0000  top
+U1        AS4C16M16SA        TSOP-II-54_22.2x10.16mm_P0.8mm                   24.9400   -24.4300    0.0000  top
+U3        MCP79410T-I/SN     SOIC8-N_MC_MCH-M                                  7.1400    -2.7700   90.0000  top
+U4        PCA9536D           SOIC-8_3.9x4.9mm_P1.27mm                         43.1710    -2.1320   90.0000  top
+Y1        ECS327MVATX3CNTR3  OSC_ECS327MVATX3CNTR3                             1.1400    -3.7700    0.0000  top
+## End

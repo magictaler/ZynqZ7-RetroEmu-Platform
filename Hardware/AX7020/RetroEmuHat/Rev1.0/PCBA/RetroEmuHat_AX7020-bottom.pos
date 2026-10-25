@@ -1,0 +1,14 @@
+### Footprint positions - created on 2026-10-25T14:43:46+1100 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                    Package                                           PosX       PosY       Rot  Side
+C4        0.1uF                  C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    16.5100   -32.5120  180.0000  bottom
+FID3      Fiducial               Fiducial_0.5mm_Mask1.5mm                        0.0000     0.0000  180.0000  bottom
+FID4      Fiducial               Fiducial_0.5mm_Mask1.5mm                       49.8570   -68.7916  180.0000  bottom
+J1        PS/2_Kbd_Mini-DIN-6    mini-DIN6_CONN_5749180-1_TYC                   46.8800   -30.4490   90.0000  bottom
+J3        PS/2_Mouse_Mini-DIN-6  mini-DIN6_CONN_5749180-1_TYC                   46.8854   -12.8214   90.0000  bottom
+J4        SD_Card                AMPHENOL_GSD090012SEU                          12.9810   -48.4200  180.0000  bottom
+J5        SJ1-3535NG-GR          CUI_SJ1-3535NG-GR                              51.0440   -44.9040  180.0000  bottom
+J6        Conn_02x20_Odd_Even    SULLINS_SFH11-PBPC-D20-ST-BK                   32.9100   -26.7660   90.0000  bottom
+## End

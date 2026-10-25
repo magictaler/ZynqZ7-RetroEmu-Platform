@@ -1,0 +1,20 @@
+### Footprint positions - created on 2026-10-25T15:17:47+1100 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                                           PosX       PosY       Rot  Side
+C1        10_uF_10V    CP_Elec_4x4.5                                  29.2100   -13.3350   90.0000  top
+C2        0.1uF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    10.1600   -24.2570   90.0000  top
+C3        0.1uF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    10.1600   -34.5440   90.0000  top
+C4        0.1uF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    28.5750   -27.3050   90.0000  top
+C5        0.1uF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    28.5750   -31.5175   90.0000  top
+C6        0.1uF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    25.4000   -13.1025  -90.0000  top
+C7        0.1uF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    13.9700   -13.1025   90.0000  top
+C8        0.1uF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    13.9700   -40.4075  -90.0000  top
+FID1      Fiducial     Fiducial_0.5mm_Mask1.5mm                        0.0000     0.0000    0.0000  top
+FID2      Fiducial     Fiducial_0.5mm_Mask1.5mm                       29.8450   -52.7050    0.0000  top
+J2        Bnk.sel      PinHeader_1x03_P2.54mm_Horizontal              21.5900    -0.6500    0.0000  top
+R1        10K          R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    30.4800   -23.4950  -90.0000  top
+R2        10K          R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    28.5750   -20.3200   90.0000  top
+U1        AS4C16M16SA  TSOP-II-54_22.2x10.16mm_P0.8mm                 19.9500   -26.6970  180.0000  top
+## End

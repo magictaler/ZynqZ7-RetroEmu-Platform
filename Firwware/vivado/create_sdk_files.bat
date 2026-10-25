@@ -1,0 +1,1 @@
+vivado -mode batch -source create_sdk_files.tcl

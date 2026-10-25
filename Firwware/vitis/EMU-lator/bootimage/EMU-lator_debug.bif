@@ -1,0 +1,8 @@
+//arch = zynq; split = false; format = BIN; zynq_key_store = efuse; key_part_name = xc7z020
+the_ROM_image:
+{
+    [bootloader] emulator_hw_platform/export/emulator_hw_platform/sw/emulator_hw_platform/boot/fsbl.elf
+    emulator_hw_platform/export/emulator_hw_platform/hw/emulator_top.bit
+    EMUlator/Debug/EMUlator.elf
+    [load = 0x4b7c000] ../../Python/splashscreen.bin
+}

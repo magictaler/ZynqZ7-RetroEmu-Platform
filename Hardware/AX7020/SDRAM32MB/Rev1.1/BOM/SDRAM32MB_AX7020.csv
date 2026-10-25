@@ -1,0 +1,7 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R1,R2";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"10K";;;
+2;"C1";"CP_Elec_4x4.5";1;"10 uF 10V";;;
+3;"C8,C5,C3,C4,C7,C2,C6";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";7;"0.1uF";;;
+4;"U1";"TSOP-II-54_22.2x10.16mm_P0.8mm";1;"AS4C16M16SA";;;
+5;"J2";"PinHeader_1x03_P2.54mm_Horizontal";1;"Bnk.sel";;;
+6;"J1";"SULLINS_SFH11-PBPC-D20-ST-BK";1;"Conn_02x20_Odd_Even";;;

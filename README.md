@@ -1,4 +1,5 @@
 # README #
+<img width="4080" height="2296" alt="20261026_183044" src="https://github.com/user-attachments/assets/f38940b0-1184-4486-95ae-e701633ea39c" />
 
 A retro-emulation platform for Xilinx Zynq, filling the gap left by MiSTer-style projects 
 desgined exclusively for Altera hardware.
